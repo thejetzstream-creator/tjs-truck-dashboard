@@ -1,201 +1,52 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+TJS TRUCK DASHBOARD END USER LICENSE AGREEMENT
+Version 1.0 | Effective 18 November 2026
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+PLEASE READ THIS AGREEMENT BEFORE INSTALLING OR USING THE SOFTWARE. The installer asks you to accept these terms before installation. If you do not agree, cancel installation and do not use the Software.
 
-   1. Definitions.
+1. WHO THIS AGREEMENT IS WITH
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+The Software is published under the name TJS Truck Dashboard (the Publisher). For questions or support, contact the Publisher at thejetzstream@gmail.com.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+This agreement covers the Windows desktop application and the dashboard and companion files supplied with it, including updates, unless an update or separately supplied component comes with different terms. It does not cover Euro Truck Simulator 2, American Truck Simulator, the SCS telemetry plugin, or other third-party software.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+2. PERMISSION TO USE THE SOFTWARE
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+The Publisher grants you a personal, non-exclusive licence to install and use the copy of the Software provided to you on computers that you own or control, for personal or internal business use. You may make one backup copy for your own records. The licence does not transfer ownership of the Software to you.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+This agreement applies only to the edition provided to you. It does not give you access to another edition, feature, service, or paid entitlement that was not supplied with your copy. Any additional terms presented when you obtain a separately licensed edition apply to that edition.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+3. THINGS YOU MAY NOT DO
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+You may not sell, rent, sublicense, publish, or redistribute the Software or a material part of it, or remove its copyright or other ownership notices. You may not modify or create derivative works of the Software, or use it unlawfully or to access another person's game data or network without permission.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+You may not reverse engineer, decompile, or disassemble the Software except to the extent applicable law expressly permits that activity and does not allow it to be restricted by contract. Nothing in this agreement removes rights that applicable law gives you.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+4. TELEMETRY AND NETWORK USE
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+The Software reads game telemetry on the computer where it runs. It can make a dashboard available to browsers on your local network. You control which browser requests to approve or remember, and can revoke remembered access in the app. Do not approve devices or users you do not trust. The app does not intentionally send your game telemetry to the Publisher.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+The app stores remembered browser approvals and locally generated dashboard certificates on your computer. Browser connection details are used to handle access requests on your local network.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+The readings are informational and depend on the game, telemetry plugin, computer, and network. They are not a substitute for the game's own displays and must not be used for vehicle control, safety-critical decisions, or emergency use. You are responsible for your network configuration and for keeping your devices and backups secure.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+5. THIRD-PARTY SOFTWARE AND NAMES
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+Third-party software and services remain subject to their own licences and terms. This agreement does not grant a licence to any game, telemetry plugin, trademark, or other third-party material. Euro Truck Simulator 2 and American Truck Simulator are referenced for compatibility; this Software is not an official SCS Software product and is not endorsed by SCS Software.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+6. UPDATES, SUPPORT, AND CHANGES
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+The Publisher may provide updates or support, but this agreement does not promise a particular update schedule or support level. Any updates or security updates required by applicable law remain subject to that law. An update may include revised terms; if it does, you will be given the opportunity to review them before accepting terms that apply to that update.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+7. WARRANTY AND LIABILITY
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+The Software is provided with the features described for the edition supplied. The Publisher does not promise that it will be uninterrupted, error-free, or compatible with every future game or plugin version. Nothing in this agreement excludes or limits a warranty, remedy, or liability that applicable law does not allow to be excluded or limited. If you are a consumer, your mandatory statutory rights remain unaffected.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+To the extent permitted by law, the Publisher is not liable for indirect or consequential loss arising from use of the Software. This does not limit liability that cannot lawfully be limited.
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+8. ENDING THE LICENCE
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+You may end this licence at any time by stopping use of the Software and uninstalling it. The Publisher may end the licence if you materially breach these terms and do not correct the breach after being given reasonable notice. Ending the licence does not remove rights or remedies that applicable law says continue.
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+9. GENERAL
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+If a term is found unenforceable, the remaining terms continue to apply to the extent the law permits. This agreement does not restrict mandatory consumer protections or give up any right that cannot legally be waived. If you have a concern, contact the Publisher at the email address above.
